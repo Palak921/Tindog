@@ -1,2 +1,4 @@
 # Tindog
-This is the dating app fir dogs
+This is the dating website for dogs,
+Find the true love of you dog today.
+
